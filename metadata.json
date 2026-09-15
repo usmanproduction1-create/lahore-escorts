@@ -1,0 +1,6 @@
+{
+  "name": "Lahore Night Girls",
+  "description": "Premium Adult Fashion & Modeling Services in Lahore. Professional fashion modeling, photoshoots, brand promotion, and event entertainment services across Gulberg, Johar Town, Bahria Town, and Iqbal Town.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
